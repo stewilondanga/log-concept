@@ -440,10 +440,11 @@ input, button {
   transition-delay: 0.2s;
 }
 
-/*.app__meeting:nth-child(2) {
+.app__meeting:nth-child(2) {
   transition-delay: 0.3s;
 }
-.app__meeting:nth-child(3) {
+
+/*.app__meeting:nth-child(3) {
   transition-delay: 0.4s;
 }
 .app__meeting:nth-child(4) {
