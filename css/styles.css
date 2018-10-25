@@ -43,13 +43,13 @@ svg {
   cursor: pointer;
 }
 
-/*.svg-icon path {
+.svg-icon path {
   stroke: rgba(255, 255, 255, 0.9);
   fill: none;
   stroke-width: 1;
 }
 
-input, button {
+/*input, button {
   outline: none;
   border: none;
 }
