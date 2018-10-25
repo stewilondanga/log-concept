@@ -243,12 +243,13 @@ input, button {
   transform: scale(1.2);
 }
 
-/*.app.active {
+.app.active {
   opacity: 1;
   -webkit-transform: scale(1);
-          transform: scale(1);
+  transform: scale(1);
 }
-.app.active .app__user-photo {
+
+/*.app.active .app__user-photo {
   -webkit-transform: scale(1);
           transform: scale(1);
 }
