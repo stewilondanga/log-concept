@@ -228,7 +228,7 @@ input, button {
   cursor: pointer;
 }
 
-/*.app {
+.app {
   position: absolute;
   top: 0;
   left: 0;
@@ -240,9 +240,10 @@ input, button {
   transition: opacity 0.1s, transform 0.3s cubic-bezier(0.68, -0.45, 0.465, 1.25);
   transition: opacity 0.1s, transform 0.3s cubic-bezier(0.68, -0.45, 0.465, 1.25), -webkit-transform 0.3s cubic-bezier(0.68, -0.45, 0.465, 1.25);
   -webkit-transform: scale(1.2);
-          transform: scale(1.2);
+  transform: scale(1.2);
 }
-.app.active {
+
+/*.app.active {
   opacity: 1;
   -webkit-transform: scale(1);
           transform: scale(1);
