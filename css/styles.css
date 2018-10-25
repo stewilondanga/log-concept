@@ -300,11 +300,12 @@ input, button {
   top: 0.8rem;
 }
 
-/*.app__menu-btn:before {
+.app__menu-btn:before {
   content: "";
   top: 0;
 }
-.app__menu-btn:after {
+
+/*.app__menu-btn:after {
   content: "";
   bottom: 0;
 }
