@@ -150,7 +150,7 @@ input, button {
   animation: animatePath 2s 0.5s forwards;
 }
 
-/*.login__input {
+.login__input {
   display: inline-block;
   width: 22rem;
   height: 100%;
@@ -159,7 +159,8 @@ input, button {
   background: transparent;
   color: #FDFCFD;
 }
-.login__submit {
+
+/*.login__submit {
   position: relative;
   width: 100%;
   height: 4rem;
