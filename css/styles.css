@@ -323,13 +323,14 @@ input, button {
   animation: animatePath 0.5s 0.5s forwards;
 }
 
-/*.app__hello {
+.app__hello {
   font-size: 2.2rem;
   color: #fff;
   font-weight: normal;
   margin-bottom: 3rem;
 }
-.app__user {
+
+/*.app__user {
   position: relative;
   display: inline-block;
   width: 9rem;
