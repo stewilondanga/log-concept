@@ -32,14 +32,14 @@ html, body {
   }
 }
 
-/*svg {
+svg {
   display: inline-block;
   width: 2rem;
   height: 2rem;
   overflow: visible;
 }
 
-.svg-icon {
+/*.svg-icon {
   cursor: pointer;
 }
 .svg-icon path {
