@@ -254,12 +254,13 @@ input, button {
   transform: scale(1);
 }
 
-/*.app.active .app__meeting {
+.app.active .app__meeting {
   -webkit-transform: translateY(0);
-          transform: translateY(0);
+  transform: translateY(0);
   opacity: 1;
 }
-.app.active .app__logout {
+
+/*.app.active .app__logout {
   -webkit-transform: scale(1);
           transform: scale(1);
 }
