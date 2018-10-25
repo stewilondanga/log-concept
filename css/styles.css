@@ -363,12 +363,13 @@ input, button {
   font-size: 1.5rem;
 }
 
-/*.app__month:after {
+.app__month:after {
   content: "";
   display: table;
   clear: both;
 }
-.app__month-name {
+
+/*.app__month-name {
   display: inline-block;
   color: rgba(255, 255, 255, 0.6);
   font-size: 1.2rem;
