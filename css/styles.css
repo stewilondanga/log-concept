@@ -223,12 +223,12 @@ input, button {
   color: #ABA8AE;
 }
 
-/*.login__signup a {
+.login__signup a {
   color: #fff;
   cursor: pointer;
 }
 
-.app {
+/*.app {
   position: absolute;
   top: 0;
   left: 0;
