@@ -191,11 +191,12 @@ input, button {
   opacity: 0;
 }
 
-/*.login__submit.processing {
+.login__submit.processing {
   width: 4rem;
   font-size: 0;
 }
-.login__submit.processing:after {
+
+/*.login__submit.processing:after {
   opacity: 1;
   -webkit-animation: rotate 0.5s 0.4s infinite linear;
           animation: rotate 0.5s 0.4s infinite linear;
