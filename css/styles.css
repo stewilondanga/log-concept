@@ -260,11 +260,12 @@ input, button {
   opacity: 1;
 }
 
-/*.app.active .app__logout {
+.app.active .app__logout {
   -webkit-transform: scale(1);
-          transform: scale(1);
+  transform: scale(1);
 }
-.app__top {
+
+/*.app__top {
   position: relative;
   height: 28rem;
   background: rgba(0, 0, 0, 0.5);
