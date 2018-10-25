@@ -456,14 +456,15 @@ input, button {
   transition-delay: 0.6s;
 }
 
-/*.app__meeting-photo {
+.app__meeting-photo {
   position: absolute;
   left: 2rem;
   top: 1rem;
   width: 4rem;
   height: 4rem;
 }
-.app__meeting-name {
+
+/*.app__meeting-name {
   color: #000;
   font-size: 1.3rem;
 }
