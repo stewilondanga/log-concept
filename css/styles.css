@@ -279,7 +279,7 @@ input, button {
   background: #fff;
 }
 
-/*.app__menu-btn {
+.app__menu-btn {
   position: absolute;
   top: 2rem;
   left: 1.5rem;
@@ -287,7 +287,8 @@ input, button {
   height: 1.7rem;
   cursor: pointer;
 }
-.app__menu-btn span, .app__menu-btn:before, .app__menu-btn:after {
+
+/*.app__menu-btn span, .app__menu-btn:before, .app__menu-btn:after {
   position: absolute;
   left: 0;
   width: 100%;
