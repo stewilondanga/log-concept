@@ -386,12 +386,13 @@ input, button {
   cursor: pointer;
 }
 
-/*.app__month-btn.left {
+.app__month-btn.left {
   float: left;
   -webkit-transform: rotate(-135deg);
-          transform: rotate(-135deg);
+  transform: rotate(-135deg);
 }
-.app__month-btn.right {
+
+/*.app__month-btn.right {
   float: right;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
