@@ -310,11 +310,12 @@ input, button {
   bottom: 0;
 }
 
-/*.app__icon {
+.app__icon {
   position: absolute;
   top: 2rem;
 }
-.app__icon.search {
+
+/*.app__icon.search {
   right: 1.5rem;
   stroke-dasharray: 61.847137451171875;
   stroke-dashoffset: 61.847137451171875;
