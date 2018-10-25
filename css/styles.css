@@ -494,14 +494,15 @@ input, button {
   transform: scale(0);
 }
 
-/*.app__logout.clicked {
+.app__logout.clicked {
   bottom: 50%;
   right: 50%;
   -webkit-transform: scale(30) !important;
-          transform: scale(30) !important;
+  transform: scale(30) !important;
   opacity: 0.9;
 }
-.app__logout.clicked svg {
+
+/*.app__logout.clicked svg {
   opacity: 0;
 }
 .app__logout-icon {
