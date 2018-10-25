@@ -469,11 +469,12 @@ input, button {
   font-size: 1.3rem;
 }
 
-/*.app__meeting-info {
+.app__meeting-info {
   color: #949498;
   font-size: 1.1rem;
 }
-.app__logout {
+
+/*.app__logout {
   position: absolute;
   bottom: 3.3rem;
   right: 3.3rem;
