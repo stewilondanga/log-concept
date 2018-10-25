@@ -305,11 +305,12 @@ input, button {
   top: 0;
 }
 
-/*.app__menu-btn:after {
+.app__menu-btn:after {
   content: "";
   bottom: 0;
 }
-.app__icon {
+
+/*.app__icon {
   position: absolute;
   top: 2rem;
 }
