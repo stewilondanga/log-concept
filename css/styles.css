@@ -398,14 +398,15 @@ input, button {
   transform: rotate(45deg);
 }
 
-/*.app__days {
+.app__days {
   height: 7rem;
   padding: 1.5rem 2rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.app__day {
+
+/*.app__day {
   width: 14%;
   text-align: center;
   font-size: 1.2rem;
