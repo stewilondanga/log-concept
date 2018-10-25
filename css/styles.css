@@ -436,10 +436,11 @@ input, button {
   opacity: 0;
 }
 
-/*.app__meeting:nth-child(1) {
+.app__meeting:nth-child(1) {
   transition-delay: 0.2s;
 }
-.app__meeting:nth-child(2) {
+
+/*.app__meeting:nth-child(2) {
   transition-delay: 0.3s;
 }
 .app__meeting:nth-child(3) {
