@@ -406,12 +406,13 @@ input, button {
   flex-wrap: wrap;
 }
 
-/*.app__day {
+.app__day {
   width: 14%;
   text-align: center;
   font-size: 1.2rem;
 }
-.app__day.weekday {
+
+/*.app__day.weekday {
   color: #919197;
   text-transform: uppercase;
 }
