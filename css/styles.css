@@ -376,7 +376,7 @@ input, button {
   text-transform: uppercase;
 }
 
-/*.app__month-btn {
+.app__month-btn {
   display: inline-block;
   width: 1.2rem;
   height: 1.2rem;
@@ -385,7 +385,8 @@ input, button {
   border-bottom: none;
   cursor: pointer;
 }
-.app__month-btn.left {
+
+/*.app__month-btn.left {
   float: left;
   -webkit-transform: rotate(-135deg);
           transform: rotate(-135deg);
