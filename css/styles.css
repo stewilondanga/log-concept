@@ -392,12 +392,13 @@ input, button {
   transform: rotate(-135deg);
 }
 
-/*.app__month-btn.right {
+.app__month-btn.right {
   float: right;
   -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
+  transform: rotate(45deg);
 }
-.app__days {
+
+/*.app__days {
   height: 7rem;
   padding: 1.5rem 2rem;
   display: flex;
