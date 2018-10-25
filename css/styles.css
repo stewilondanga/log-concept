@@ -296,10 +296,11 @@ input, button {
   background: rgba(255, 255, 255, 0.6);
 }
 
-/*.app__menu-btn span {
+.app__menu-btn span {
   top: 0.8rem;
 }
-.app__menu-btn:before {
+
+/*.app__menu-btn:before {
   content: "";
   top: 0;
 }
