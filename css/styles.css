@@ -349,7 +349,7 @@ input, button {
   transform: scale(0);
 }
 
-/*.app__user-notif {
+.app__user-notif {
   position: absolute;
   top: 0;
   right: 0;
@@ -362,7 +362,8 @@ input, button {
   color: #fff;
   font-size: 1.5rem;
 }
-.app__month:after {
+
+/*.app__month:after {
   content: "";
   display: table;
   clear: both;
