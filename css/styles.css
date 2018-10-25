@@ -338,7 +338,7 @@ input, button {
   margin-bottom: 3rem;
 }
 
-/*.app__user-photo {
+.app__user-photo {
   width: 100%;
   height: 100%;
   border-radius: 50%;
@@ -346,9 +346,10 @@ input, button {
   transition: transform 0.3s 0.2s cubic-bezier(0.62, 0.35, 0.56, 1.55);
   transition: transform 0.3s 0.2s cubic-bezier(0.62, 0.35, 0.56, 1.55), -webkit-transform 0.3s 0.2s cubic-bezier(0.62, 0.35, 0.56, 1.55);
   -webkit-transform: scale(0);
-          transform: scale(0);
+  transform: scale(0);
 }
-.app__user-notif {
+
+/*.app__user-notif {
   position: absolute;
   top: 0;
   right: 0;
