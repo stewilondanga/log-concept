@@ -174,7 +174,7 @@ input, button {
   transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
 }
 
-/*.login__submit:after {
+.login__submit:after {
   content: "";
   position: absolute;
   top: 50%;
@@ -190,7 +190,8 @@ input, button {
   transition: opacity 0.1s 0.4s;
   opacity: 0;
 }
-.login__submit.processing {
+
+/*.login__submit.processing {
   width: 4rem;
   font-size: 0;
 }
