@@ -211,13 +211,14 @@ input, button {
   opacity: 0.9;
 }
 
-/*.login__submit.success:after {
+.login__submit.success:after {
   transition: opacity 0.1s 0s;
   opacity: 0;
   -webkit-animation: none;
-          animation: none;
+  animation: none;
 }
-.login__signup {
+
+/*.login__signup {
   font-size: 1.2rem;
   color: #ABA8AE;
 }
