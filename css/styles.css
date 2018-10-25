@@ -502,10 +502,11 @@ input, button {
   opacity: 0.9;
 }
 
-/*.app__logout.clicked svg {
+.app__logout.clicked svg {
   opacity: 0;
 }
-.app__logout-icon {
+
+/*.app__logout-icon {
   position: absolute;
   width: 3rem;
   height: 3rem;
