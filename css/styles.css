@@ -49,12 +49,12 @@ svg {
   stroke-width: 1;
 }
 
-/*input, button {
+input, button {
   outline: none;
   border: none;
 }
 
-.cont {
+/*.cont {
   position: relative;
   height: 100%;
   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/slider-2.jpg");
