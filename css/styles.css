@@ -249,11 +249,12 @@ input, button {
   transform: scale(1);
 }
 
-/*.app.active .app__user-photo {
+.app.active .app__user-photo {
   -webkit-transform: scale(1);
-          transform: scale(1);
+  transform: scale(1);
 }
-.app.active .app__meeting {
+
+/*.app.active .app__meeting {
   -webkit-transform: translateY(0);
           transform: translateY(0);
   opacity: 1;
