@@ -452,10 +452,11 @@ input, button {
   transition-delay: 0.5s;
 }
 
-/*.app__meeting:nth-child(5) {
+.app__meeting:nth-child(5) {
   transition-delay: 0.6s;
 }
-.app__meeting-photo {
+
+/*.app__meeting-photo {
   position: absolute;
   left: 2rem;
   top: 1rem;
