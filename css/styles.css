@@ -474,7 +474,7 @@ input, button {
   font-size: 1.1rem;
 }
 
-/*.app__logout {
+.app__logout {
   position: absolute;
   bottom: 3.3rem;
   right: 3.3rem;
@@ -491,9 +491,10 @@ input, button {
   transition: bottom 0.4s 0.1s, right 0.4s 0.1s, transform 0.4s 0.4s, opacity 0.1s 0.7s, background-color 0.1s 0.7s;
   transition: bottom 0.4s 0.1s, right 0.4s 0.1s, transform 0.4s 0.4s, opacity 0.1s 0.7s, background-color 0.1s 0.7s, -webkit-transform 0.4s 0.4s;
   -webkit-transform: scale(0);
-          transform: scale(0);
+  transform: scale(0);
 }
-.app__logout.clicked {
+
+/*.app__logout.clicked {
   bottom: 50%;
   right: 50%;
   -webkit-transform: scale(30) !important;
