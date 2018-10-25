@@ -91,7 +91,7 @@ input, button {
   transform: scale(1.1);
 }
 
-/*.login__check {
+.login__check {
   position: absolute;
   top: 16rem;
   left: 13.5rem;
@@ -99,11 +99,12 @@ input, button {
   height: 2.8rem;
   background: #fff;
   -webkit-transform-origin: 0 100%;
-          transform-origin: 0 100%;
+  transform-origin: 0 100%;
   -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
+  transform: rotate(-45deg);
 }
-.login__check:before {
+
+/*.login__check:before {
   content: "";
   position: absolute;
   left: 0;
