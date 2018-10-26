@@ -547,14 +547,15 @@ input, button {
   }
 }
 
-/*@keyframes animRipple {
+@keyframes animRipple {
   to {
     -webkit-transform: scale(3.5);
-            transform: scale(3.5);
+    transform: scale(3.5);
     opacity: 0;
   }
 }
-@-webkit-keyframes rotate {
+
+/*@-webkit-keyframes rotate {
   to {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
