@@ -516,7 +516,7 @@ input, button {
   margin-top: -1.5rem;
   transition: opacity 0.1s;
 }
-.app__logout-icon path {
+/*.app__logout-icon path {
   stroke-width: 4px;
   stroke-dasharray: 64.36235046386719;
   stroke-dashoffset: 64.36235046386719;
