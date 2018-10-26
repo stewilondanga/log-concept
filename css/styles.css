@@ -575,13 +575,13 @@ input, button {
   }
 }
 
-/*@keyframes animatePath {
+@keyframes animatePath {
   to {
     stroke-dashoffset: 0;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
