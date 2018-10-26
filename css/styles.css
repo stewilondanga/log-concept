@@ -539,15 +539,15 @@ input, button {
   border-radius: 50%;
 }
 
-/*@-webkit-keyframes animRipple {
+@-webkit-keyframes animRipple {
   to {
     -webkit-transform: scale(3.5);
-            transform: scale(3.5);
+    transform: scale(3.5);
     opacity: 0;
   }
 }
 
-@keyframes animRipple {
+/*@keyframes animRipple {
   to {
     -webkit-transform: scale(3.5);
             transform: scale(3.5);
