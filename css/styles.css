@@ -506,7 +506,7 @@ input, button {
   opacity: 0;
 }
 
-/*.app__logout-icon {
+.app__logout-icon {
   position: absolute;
   width: 3rem;
   height: 3rem;
@@ -516,6 +516,7 @@ input, button {
   margin-top: -1.5rem;
   transition: opacity 0.1s;
 }
+
 /*.app__logout-icon path {
   stroke-width: 4px;
   stroke-dasharray: 64.36235046386719;
