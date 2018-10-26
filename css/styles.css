@@ -569,12 +569,13 @@ input, button {
   }
 }
 
-/*@-webkit-keyframes animatePath {
+@-webkit-keyframes animatePath {
   to {
     stroke-dashoffset: 0;
   }
 }
-@keyframes animatePath {
+
+/*@keyframes animatePath {
   to {
     stroke-dashoffset: 0;
   }
