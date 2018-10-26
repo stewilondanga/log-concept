@@ -555,13 +555,14 @@ input, button {
   }
 }
 
-/*@-webkit-keyframes rotate {
+@-webkit-keyframes rotate {
   to {
     -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
-@keyframes rotate {
+
+/*@keyframes rotate {
   to {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
